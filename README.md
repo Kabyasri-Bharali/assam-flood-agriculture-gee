@@ -48,9 +48,7 @@ The study focuses on identifying flooded areas and understanding their effect on
 ---
 
 ## 📊 Results
-- NDVI maps show significant vegetation reduction in flooded areas
-- Flood impact on agricultural land varies across districts
-- Post-flood recovery patterns were observed using time-series data
+- Results and visualizations will be added soon
 
 ---
 
