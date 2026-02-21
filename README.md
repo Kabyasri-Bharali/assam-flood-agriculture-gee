@@ -48,7 +48,10 @@ The study focuses on identifying flooded areas and understanding their effect on
 ---
 
 ## 📊 Results
-- Results and visualizations will be added soon
+
+Flood impact on agriculture in Assam using Google Earth Engine:
+
+![Assam Flood Impact](assam_flood_result.png)
 
 ---
 
